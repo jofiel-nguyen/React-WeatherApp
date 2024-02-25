@@ -26,6 +26,9 @@ Simply open the app in your web browser and allow location access to receive wea
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+## Screenshots
+[![Screenshot](./screenshot.png)](https://cheerful-youtiao-c30163.netlify.app/)
+
 
 ## License
 
